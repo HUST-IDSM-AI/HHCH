@@ -36,3 +36,16 @@ Implementation of Exploring hierarchical information in hyperbolic space for sel
 python main.py --hyper_c 0.1 --data_name imagenet --data_path xxxx --lambda_q 0.01 --lr 0.0001 --hash_bit 64 --batch_size 64 --R 1000 --start_eval 40 --eval_epochs 2 --epochs 60   --cluster_num 1500,1000,800 --HIC  --HPC
 ```
 
+# Citation
+```
+@ARTICLE{HHCH2024TIP,
+  author={Wei, Rukai and Liu, Yu and Song, Jingkuan and Xie, Yanzhao and Zhou, Ke},
+  journal={IEEE Transactions on Image Processing}, 
+  title={Exploring Hierarchical Information in Hyperbolic Space for Self-supervised Image Hashing}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Self-supervised hashing;contrastive learning;hyperbolic embedding;hierarchical semantic structure;K-Means},
+  doi={10.1109/TIP.2024.3371358}}
+```
