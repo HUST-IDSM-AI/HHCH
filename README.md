@@ -41,11 +41,10 @@ python main.py --hyper_c 0.1 --data_name imagenet --data_path xxxx --lambda_q 0.
 @ARTICLE{HHCH2024TIP,
   author={Wei, Rukai and Liu, Yu and Song, Jingkuan and Xie, Yanzhao and Zhou, Ke},
   journal={IEEE Transactions on Image Processing}, 
-  title={Exploring Hierarchical Information in Hyperbolic Space for Self-supervised Image Hashing}, 
+  title={Exploring Hierarchical Information in Hyperbolic Space for Self-Supervised Image Hashing}, 
   year={2024},
-  volume={},
+  volume={33},
   number={},
-  pages={1-1},
-  keywords={Self-supervised hashing;contrastive learning;hyperbolic embedding;hierarchical semantic structure;K-Means},
+  pages={1768-1781},
   doi={10.1109/TIP.2024.3371358}}
 ```
